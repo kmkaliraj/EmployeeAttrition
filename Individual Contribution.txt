@@ -1,0 +1,32 @@
+Individual Team Member Contribution
+
+
+1. Vini Kalra
+
+•	Researched for different dataset which can meet our Project requirements
+•	Contributed in designing and development of Machine learning algorithms:-Logistic Regression and Neural Network
+•	Implemented the code for those Logistic Regression and Neural Network.
+•	Contribution in Final Report writing : Machine Learning Model
+
+
+2. Husain Kanchwala
+
+•	Collected reference papers.
+•	Contributed in designing and development of Machine learning algorithms:-K N neighbor. Performed Dataset Preprocessing.
+•	Implemented the code for K N neighbor.
+•	Contribution in Final Report writing : Introduction, Abstract, References and conclusion
+
+3. Kaliraj Kalimuthu
+
+•	Came up with idea and researched for different dataset
+•	Contributed in designing and development of Machine learning algorithms. Support Vector and Gradient Boosting Classifier 
+•	Implemented the code for those model: Support Vector and Gradient Boosting Classifier 
+•	Contribution in Final Report writing :Performance Evaluation
+
+4. Sravani Kandarpa
+
+•	Researched for different dataset which can meet our Project requirements
+•	Contributed in designing and development of Machine learning algorithms:-Random Forest and Performed Dataset PreProcessing.
+•	Implemented the code for those model .Random Forest 
+•	Contributed in writing Final Report's : Dataset Information
+
